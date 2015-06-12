@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FotoHalloween</string>
+
+    <string name="titulo">Foto Halloween!!</string>
+    <string name="action_settings">Configuración</string>
+    <string name="btnFoto">Nueva Foto</string>
+    <string name="btnGaleria">Elegir desde Galería</string>
+    <string name="title_activity_edit">EditActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
